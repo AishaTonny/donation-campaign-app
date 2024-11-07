@@ -1,0 +1,2 @@
+# donation-campaign-app
+ This donation app is a web-based platform built with React, allowing users to track and visualize donations. Key features include interactive pie charts displaying donation statistics, a responsive and clean UI styled with Tailwind CSS, and client-side routing for seamless navigation. The app emphasizes reusable components and manages data flow effectively through props and state, creating a dynamic and engaging user experience for tracking contributions in real-time.
